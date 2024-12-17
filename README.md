@@ -1,16 +1,15 @@
-## Hi there 👋
+## vroom vroom 🏎️
 
-<!--
-**y2ppi/y2ppi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### sobre mim:
+- 🎓 Estudante de Ciência da Computação na **Universidade Estadual da Paraíba**.
+- 💼 Atualmente buscando oportunidades em desenvolvimento web.
+- 🚀 Apaixonado por tecnologia, programação e aprendizado constante.
 
-Here are some ideas to get you started:
+### tecnologias que domino:
+- **Linguagens:** C, Python, JavaScript, Java.
+- **Frameworks:** React, Node.js.
+- **Ferramentas:** Git, GitHub, VScode
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### onde me encontrar:
+- [LinkedIn](https://www.linkedin.com/in/pedro-bryan-andrade-da-costa-434121331/)
+- [Email](mailto:bryanandrade236@gmail.com)
