@@ -2,7 +2,6 @@
 
 ### sobre mim:
 - 🎓 Estudante de Ciência da Computação na **Universidade Estadual da Paraíba**.
-- 💼 Atualmente buscando oportunidades em desenvolvimento web.
 
 ### tecnologias que domino:
 - **Linguagens:** C, Python, JavaScript, Java.
