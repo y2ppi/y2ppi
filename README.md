@@ -1,14 +1,16 @@
 ## vroom vroom 🏎️
 
-### sobre mim:
-- 🎓 Estudante de Ciência da Computação na **Universidade Estadual da Paraíba**.
+### Sobre mim:
+- 🎓 Estudante do quarto período de Ciência da Computação na **Universidade Estadual da Paraíba**.
+- Fullstack Developer
+- Desenvolvedor Java
 
-### tecnologias que domino:
+### Tecnologias que domino:
 - **Linguagens:** C, Python, JavaScript, Java.
 - **Frameworks:** React, Node.js.
-- **Ferramentas:** Git, GitHub, VScode
+- **Ferramentas:** Git, GitHub, Visual Code Studio.
 
-### onde me encontrar:
+### Onde me encontrar:
 - [LinkedIn](https://www.linkedin.com/in/pedro-bryan-andrade-da-costa-434121331/)
 - [Email](mailto:bryanandrade236@gmail.com)
 
