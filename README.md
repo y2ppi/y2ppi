@@ -7,7 +7,7 @@
 
 ### Tecnologias que domino:
 - **Linguagens:** C, Python, JavaScript, Java.
-- **Frameworks:** React, Node.js.
+- **Frameworks:** React, Node.js, Angular.
 - **Ferramentas:** Git, GitHub, Visual Code Studio.
 
 ### Onde me encontrar:
