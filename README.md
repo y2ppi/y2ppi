@@ -1,7 +1,7 @@
 ## vroom vroom 🏎️
 
 ### Sobre mim:
-- 🎓 Estudante do quarto período de Ciência da Computação na **Universidade Estadual da Paraíba**.
+- 🎓 Estudante do terceiro período de Ciência da Computação na **Universidade Estadual da Paraíba**.
 - Fullstack Developer
 - Desenvolvedor Java
 
