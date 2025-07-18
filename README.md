@@ -39,6 +39,7 @@
 
 </div>
 
+---
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=y2ppi&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=y2ppi&layout=compact&theme=dracula)
